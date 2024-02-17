@@ -64,13 +64,13 @@ window.onload =function(){
     }
 
     toppipesimage=new Image();
-    toppipesimage.src="/images/toppipe.png";
+    toppipesimage.src="./images/toppipe.png";
 
     giftImage=new Image();
-    giftImage.src="/images/gift-box-game-asset-2d-icon-transparent-background-png.png";
+    giftImage.src="./images/gift-box-game-asset-2d-icon-transparent-background-png.png";
 
     bottompipesimage=new Image();
-    bottompipesimage.src="/images/bottompipe.png";
+    bottompipesimage.src="./images/bottompipe.png";
 
     requestAnimationFrame(Update)
 
