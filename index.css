@@ -7,4 +7,5 @@ body{
 }
 #board{
     background-image: url(./images/flappybirdbg.png);
+    height: 100vh;
 }
